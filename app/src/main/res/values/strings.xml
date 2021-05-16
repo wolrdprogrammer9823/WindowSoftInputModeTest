@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WindowSoftInputModeTest</string>
+    <string name="scroll_layout">滚动布局</string>
+    <string name="not_scroll_layout">非滚动布局</string>
+</resources>
